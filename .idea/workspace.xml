@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f6d1716-0129-4573-bcd6-567908d8e02d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\maven\repository" />
+        <option name="mavenHome" value="G:/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="G:\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eGWdREcSuC8FBJKJZwLxUh1ENn" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.DistributedLock">
+    <configuration name="ConfigurationCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sofency.top.ConfigurationCenter" />
+      <module name="zookeeper_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sofency.top.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributedLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sofency.top.DistributedLock" />
+      <module name="zookeeper_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sofency.top.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalUnionId" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sofency.top.GlobalUnionId" />
+      <module name="zookeeper_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sofency.top.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperExists.existNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper_demo" />
+      <option name="PACKAGE_NAME" value="com.zookeeper.api" />
+      <option name="MAIN_CLASS_NAME" value="com.zookeeper.api.ZookeeperExists" />
+      <option name="METHOD_NAME" value="existNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperWatcherExists.exist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zookeeper.watcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zookeeper.watcher" />
+      <option name="MAIN_CLASS_NAME" value="com.zookeeper.watcher.ZookeeperWatcherExists" />
+      <option name="METHOD_NAME" value="exist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DistributedLock" />
+        <item itemvalue="Application.GlobalUnionId" />
+        <item itemvalue="Application.ConfigurationCenter" />
+        <item itemvalue="JUnit.ZookeeperWatcherExists.exist" />
+        <item itemvalue="JUnit.ZookeeperExists.existNode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f6d1716-0129-4573-bcd6-567908d8e02d" name="Default Changelist" comment="" />
+      <created>1593948496289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593948496289</updated>
+      <workItem from="1593948498846" duration="4736000" />
+      <workItem from="1595163618574" duration="1154000" />
+      <workItem from="1600520041281" duration="13042000" />
+      <workItem from="1600535513987" duration="2487000" />
+      <workItem from="1600566224432" duration="607000" />
+      <workItem from="1600577387603" duration="1885000" />
+      <workItem from="1600598905075" duration="3705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1600535847637">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="526" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1600535847637" />
+    <state width="1396" height="176" key="GridCell.Tab.0.bottom" timestamp="1600602629761">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1396" height="340" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1595236218076" />
+    <state width="1396" height="176" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1600602629761" />
+    <state width="1396" height="176" key="GridCell.Tab.0.center" timestamp="1600602629760">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1396" height="340" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1595236218076" />
+    <state width="1396" height="176" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1600602629760" />
+    <state width="1396" height="176" key="GridCell.Tab.0.left" timestamp="1600602629760">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1396" height="340" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1595236218076" />
+    <state width="1396" height="176" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1600602629760" />
+    <state width="1396" height="176" key="GridCell.Tab.0.right" timestamp="1600602629761">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1396" height="340" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1595236218076" />
+    <state width="1396" height="176" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1600602629761" />
+    <state x="108" y="121" key="new project wizard" timestamp="1600586663102">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="108" y="121" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1600586663102" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1600601878920">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1600601878920" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/zookeeper/api/ZookeeperExists.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/zookeeper/watcher/ZookeeperWatcherExists.java</url>
+          <line>41</line>
+          <properties class="com.zookeeper.watcher.ZookeeperWatcherExists" method="exist">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
